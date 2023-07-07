@@ -9,7 +9,7 @@ react-native-naver-map [![npm version](https://badge.fury.io/js/react-native-nma
 ## 설치
 
 ```
-npm install react-native-nmap --save;
+npm install @slife518/react-native-nmap --save;
 ```
 
 - **React Native 0.60+**
